@@ -1,0 +1,11 @@
+body{
+    background-image: linear-gradient(rgb(0, 19, 129),rgb(129, 125, 0)),url(Ucpt.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: repeat;
+    background-attachment: fixed;
+    text-align: center;
+}
+table, tr, th{
+    color: white;
+}
